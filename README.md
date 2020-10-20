@@ -16,3 +16,6 @@ Python 3.8.5
 ### Example of a execution of the Test
 
 ![deom - run a test](https://user-images.githubusercontent.com/6324498/96590529-2048fe80-12b4-11eb-9225-677768c543cb.gif)
+
+### Example with Postman
+![deom - postman](https://user-images.githubusercontent.com/6324498/96595082-4b821c80-12b9-11eb-9995-457ca12a455d.gif)

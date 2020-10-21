@@ -1,5 +1,8 @@
 # Practice 2
 ## Automation a Test of https://reqres.in/api/
+
+**Link of the PR:** https://github.com/Diego-Gonzales-Jala/DH-PracticeB/pull/1
+
 **Description:**
 ```
 b.	Please automate a test case to verify if this email michael.lawson@reqres.in is in page 2 in https://reqres.in/
